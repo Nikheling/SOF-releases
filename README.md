@@ -1,6 +1,6 @@
 # SOF-releases
 
-Aquí se publican **las versiones jugables** de *Sense of Fiction*, un juego 2D de acción y plataformas hecho con Godot. Este repositorio solo contiene descargas; el desarrollo del juego se lleva en otro lugar.
+Aquí se publican **las versiones jugables** de *Sense of Fiction*, un juego 2D de acción y plataformas hecho con Godot. Este repositorio solo contiene descargas 0_O
 
 ## Última versión
 
@@ -13,6 +13,9 @@ Todas las versiones están en la sección [**Releases**](https://github.com/Nikh
 1. Entra en la versión que quieras y descarga el archivo `.zip` que aparece en **Assets**.
 2. Descomprímelo.
 3. Ejecuta `SenseOfFiction.exe`.
+
+## Dato no tan importante:
+Usa la tecla R para reiniciar toda la actividad del juego
 
 No hay instalación: el motor viene incluido en el ejecutable.
 
