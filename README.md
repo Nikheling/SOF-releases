@@ -1,10 +1,10 @@
 # SOF-releases
 
-Aquí se publican **las versiones jugables** de *Sense of Fiction*, un juego 2D de acción y plataformas hecho con Godot. Este repositorio solo contiene descargas 0_O
+Aquí se publican **las versiones jugables** de *Sense of Fiction*, un juego 2D de acción y plataformas hecho con Godot. el proyecto esta expuesto a cambios. Este repositorio solo contiene descargas 0_O
 
-## Última versión
+## Versiones
 
-**[v0.0.1-dev — versión preliminar](https://github.com/Nikheling/SOF-releases/releases/tag/v0.0.1-dev)** · Windows de 64 bits · unos 35 MB
+**[v0.0.1-dev — versión preliminar](https://github.com/Nikheling/SOF-releases/releases/tag/v0.0.1-dev)** · Windows de 64 bits - unos 35 MB
 
 Todas las versiones están en la sección [**Releases**](https://github.com/Nikheling/SOF-releases/releases).
 
